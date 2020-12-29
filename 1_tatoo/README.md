@@ -9,6 +9,6 @@ $ cd 1_tattoo
 $ node 1.js
 ```
 
-===
+---
 
 ![problem](problem1.png)

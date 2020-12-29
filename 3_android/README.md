@@ -1,14 +1,16 @@
 # Puzzle 3
+![problem](problem3.png)
+
+---
 
 ## Pre-requisites:
 Node.js and NPM installed
 
-## Run
+## Run:
 ```
 $ cd 3_android
 $ npm install
 $ node 3.js
 ```
-
-===
-![problem](/problem3.png)
+## Solution Illustrated:
+![img](img.png)

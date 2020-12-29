@@ -1,5 +1,9 @@
 # Puzzle 1
 
+![problem](problem1.png)
+
+---
+
 ## Pre-requisites:
 Node.js installed
 
@@ -9,6 +13,3 @@ $ cd 1_tattoo
 $ node 1.js
 ```
 
----
-
-![problem](problem1.png)

@@ -10,4 +10,4 @@ $ node 1.js
 ```
 
 ===
-![problem](/problem1.png)
+![problem](problem1.png)

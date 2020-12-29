@@ -9,7 +9,7 @@ Node.js installed
 
 ## Run
 ```
-$ cd 1_tattoo
+$ cd 1_tatoo
 $ node 1.js
 ```
 
